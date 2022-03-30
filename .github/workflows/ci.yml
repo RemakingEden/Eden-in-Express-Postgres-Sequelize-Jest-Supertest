@@ -99,7 +99,7 @@ jobs:
         run: npm ci
 
       - name: Start integration tests
-        run: npm run test:ci
+        run: npm test
 
       - name: Start unit tests
         run: echo "No unit tests available currently"
