@@ -17,7 +17,7 @@
     "username": "postgres",
     "password": "postgres",
     "database": "remakingeden_ci",
-    "host": "postgres",
+    "host": "localhost",
     "dialect": "postgres"
   },
   "production": {
